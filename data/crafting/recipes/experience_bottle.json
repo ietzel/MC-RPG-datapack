@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "minecraft:spider_eye"
+        },
+        {
+            "item": "minecraft:bone"
+        },
+        {
+            "item": "minecraft:glass_bottle"
+        }
+    ],
+    "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 1
+    }
+}
