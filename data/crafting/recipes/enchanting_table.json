@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "GLG",
+        "CCC"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:terracotta"
+        },
+        "B": {
+            "item": "minecraft:book"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "L": {
+            "item": "minecraft:lectern"
+        },
+        "C": {
+            "item": "minecraft:charcoal"
+        }
+    },
+    "result": {
+        "item": "minecraft:enchanting_table",
+        "count": 1
+    }
+}
