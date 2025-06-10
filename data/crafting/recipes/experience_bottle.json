@@ -11,17 +11,26 @@
             "item": "minecraft:bone"
         },
         {
-            "item": "minecraft:glass_bottle",
+            "item": "minecraft:glass",
         },
         {
-            "item": "minecraft:glass_bottle",
+            "item": "minecraft:glass",
         },
         {
-            "item": "minecraft:glass_bottle",
+            "item": "minecraft:glass",
+        },
+        {
+            "item": "minecraft:glass",
+        },
+        {
+            "item": "minecraft:glass",
+        },
+        {
+            "item": "minecraft:glass",
         }
     ],
     "result": {
         "item": "minecraft:experience_bottle",
-        "count": 3
+        "count": 18
     }
 }
