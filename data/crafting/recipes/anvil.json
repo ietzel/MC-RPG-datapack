@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "E"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:experience_bottle"
+        },
+        "E": {
+            "item": "minecraft:enchanting_table"
+        }
+    },
+    "result": {
+        "item": "minecraft:anvil",
+        "count": 1
+    }
+}
