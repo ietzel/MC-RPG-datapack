@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "___",
+        "OWO",
+        "___"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:oak_slab"
+        },
+        "O": {
+            "item": "minecraft:oak_planks"
+        },
+        "W": {
+            "item": "minecraft:written_book"
+        }
+    },
+    "result": {
+        "item": "minecraft:bookshelf",
+        "count": 1
+    }
+}
