@@ -6,16 +6,10 @@
         },
         {
             "item": "minecraft:rotten_flesh"
-        },
-        {
-            "item": "minecraft:rotten_flesh"
-        },
-        {
-            "item": "minecraft:rotten_flesh"
         }
     ],
     "result": {
-        "item": "minecraft:book",
-        "count": 1
+        "item": "minecraft:leather",
+        "count": 2
     }
 }
